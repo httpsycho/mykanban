@@ -1,6 +1,6 @@
 # 🗂 MyKanban
 
-**MyKanban** is a pet project built from scratch to demonstrate frontend development skills.  
+**MyKanban** is a project built from scratch to demonstrate frontend development skills.  
 It allows users to manage tasks using the **Kanban methodology**, with support for **drag-and-drop**, **dark/light themes**, and **multilingual interface**.
 
 ---
